@@ -1,4 +1,4 @@
-package org.babetech.borastock.ui.components
+package org.babetech.borastock.presentation.components.legacy
 
 import androidx.compose.animation.*
 import androidx.compose.animation.core.*

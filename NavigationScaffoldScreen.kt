@@ -1,4 +1,4 @@
-package org.babetech.borastock.ui.components
+package org.babetech.borastock.presentation.components.navigation
 
 import androidx.compose.animation.Crossfade
 import androidx.compose.animation.core.tween
